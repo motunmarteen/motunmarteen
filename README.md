@@ -7,7 +7,7 @@
 
 ---
 ### Here's a quick summary about me:
-I am Marteen Motun Mubaraq, a student of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering). I am on a mission to revolutionize the fashion industry with [Elytse](https://elytse.com) and financial markets [Drabux](https://drabuxxx.com) with the full use of artificial intelligence and blockchain technology. My passion for these projects stems from my desire to help people make informed decisions and avoid costly mistakes.
+I am Marteen Motun Mubarak, a student of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering). I am on a mission to revolutionize the fashion industry with [Elytse](https://elytse.com) and financial markets [Drabux](https://drabuxxx.com) with the full use of artificial intelligence and blockchain technology. My passion for these projects stems from my desire to help people make informed decisions and avoid costly mistakes.
 
 However, that's not all my interests. I'm always on the lookout for exciting collaborations and opportunities to learn new skills. I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities. I'm particularly fascinated by the possibilities presented by Software Engineering.
 
